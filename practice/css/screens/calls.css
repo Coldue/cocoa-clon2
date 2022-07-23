@@ -1,0 +1,50 @@
+.calls__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 20px;
+}
+
+
+.calls-list__icons {
+  display: flex;
+}
+
+.calls-list__icons i {
+  margin-left: 10px;
+  background-color: #ffd8f6;
+  height: 35px;
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.calls-list__column {
+  display: flex;
+}
+
+.calls__color {
+  color: red;
+}
+
+
+.list__title span:nth-child(2) {
+  letter-spacing: 3px;
+  opacity: 1;
+}
+
+.calls-list__first-icon {
+  display: flex;
+  align-items: center;
+}
+
+.calls-list__first-icon img {
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 30px;
+  width: 30px;
+}
