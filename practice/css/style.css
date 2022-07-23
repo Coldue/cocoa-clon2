@@ -18,7 +18,7 @@
 @import "screens/calls.css";
 @import "screens/more.css";
 @import "screens/chat.css";
-@import "screens/login.css";
+@import "screens/index.css";
 
 
 * {
@@ -35,6 +35,7 @@ body {
 a {
   text-decoration: none;
   cursor: pointer;
+  color: black;
 }
 
 input:focus {
